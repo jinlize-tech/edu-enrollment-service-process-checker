@@ -1,0 +1,24 @@
+{
+  "number": 94,
+  "product_id": "JLZ-EDU-SK-076",
+  "chinese_name": "招生服务流程检查",
+  "english_name": "Enrollment Service Process Checker",
+  "repository_name": "edu-enrollment-service-process-checker",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-enrollment-service-process-checker-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "招生流程、岗位分工、咨询到成交记录、SLA、材料和合规要求",
+  "main_output": "流程检查表、节点证据、责任偏差、客户体验风险和改进建议",
+  "package_entries": [
+    "edu-enrollment-service-process-checker/SKILL.md",
+    "edu-enrollment-service-process-checker/references/DOMAIN_GUIDE.md",
+    "edu-enrollment-service-process-checker/references/EXAMPLES.md",
+    "edu-enrollment-service-process-checker/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

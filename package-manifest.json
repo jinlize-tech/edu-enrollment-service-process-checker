@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-076",
+  "repository_name": "edu-enrollment-service-process-checker",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-enrollment-service-process-checker-v1.0.0.zip",
+  "sha256": "95E88D5A83C422F051D182C465872B2FE3D8DE1175F06B0A3AA8403C687C6098",
+  "bytes": 4977,
+  "entries": [
+    "edu-enrollment-service-process-checker/SKILL.md",
+    "edu-enrollment-service-process-checker/references/DOMAIN_GUIDE.md",
+    "edu-enrollment-service-process-checker/references/EXAMPLES.md",
+    "edu-enrollment-service-process-checker/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:20.6501487+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
