@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在招生服务流程检查任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "招生流程": "标准合成场景｜招生服务流程检查的招生流程：已按合成业务口径准备",
+    "岗位分工": "标准合成场景｜已确认岗位与职责；具体人员使用角色编号T01、C01（合成编号）"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
